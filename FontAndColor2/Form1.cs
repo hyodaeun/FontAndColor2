@@ -16,5 +16,20 @@ namespace FontAndColor2
         {
             InitializeComponent();
         }
+
+        private void StatusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void ToolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RtbText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
